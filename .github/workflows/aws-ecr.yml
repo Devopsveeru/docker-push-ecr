@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     branches: [ main ]
 
-name: mdh-app
+name: app
 
 jobs:
   deploy:
